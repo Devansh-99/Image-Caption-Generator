@@ -1,0 +1,1 @@
+This project implements an image captioning system using the BLIP (Bootstrapping Language-Image Pretraining) model. It takes an input image and generates a descriptive natural-language caption. Built with Hugging Face Transformers, PyTorch, and PIL.
